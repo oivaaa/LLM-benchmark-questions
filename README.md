@@ -18,6 +18,9 @@ What is a synonym of "drunk" that starts with the letter "i"?
 A1 (GPT-4 and GPT-3.5 passes as of May 10 2023):
 inebriated, intoxicated or etc...
 
+Q2:
+What is a synonym of "goal" that starts with the letter "c"?
 
+A1
 
 
