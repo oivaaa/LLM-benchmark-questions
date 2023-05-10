@@ -22,6 +22,6 @@ Q2 (harder version of the previous):
 **What is a synonym of "goal" that starts with the letter "c"?**
 
 A1 (GPT-4 and GPT-3.5 fails as of May 10 2023):
-**culmination, criterion** or etc...
+**culmination, conquest** or etc...
 
 
