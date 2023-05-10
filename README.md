@@ -3,11 +3,9 @@
 ## Simple logic and reasoning questions
 
 Q1:
-
 If Bob is faster than Sara and Sara is faster than Joe, is Joe faster than Bob?
 
-A1: (GPT-3.5 and GPT-4 passes as of May 10 2023)
-
+A1 (GPT-3.5 and GPT-4 passes as of May 10 2023):
 No
 
 Q2:
