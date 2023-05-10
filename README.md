@@ -25,7 +25,7 @@ A1 (GPT-4 and GPT-3.5 passes as of May 10 2023):
 Q2 (harder version of the previous):
 **What is a synonym of "goal" that starts with the letter "c"?**
 
-A2 (GPT-4 and GPT-3.5 fails as of May 10 2023):
+A2 (GPT-4 and GPT-3.5 fail as of May 10 2023):
 **culmination, criterion** or etc...
 
 
