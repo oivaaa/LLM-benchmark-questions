@@ -1,2 +1,4 @@
-# LLM-benchmark-questions
-LLM benchmark questions
+# Some LLM benchmark questions
+
+### Simple logic and reasoning questions
+
