@@ -9,6 +9,10 @@ A1 (GPT-3.5 and GPT-4 passes as of May 10 2023):
 **No**
 
 Q2:
+**We can dry shirts with unlimited area and room. If 5 shirts take 4 hours to dry, how long does 20 shirts take?**
+
+A2 (GPT-4 passes while GPT-3.5 fails as of may 11 2023):
+**4 hours**
 
 ## Task and instruction comprehension questions
 
@@ -21,7 +25,7 @@ A1 (GPT-4 and GPT-3.5 passes as of May 10 2023):
 Q2 (harder version of the previous):
 **What is a synonym of "goal" that starts with the letter "c"?**
 
-A1 (GPT-4 and GPT-3.5 fails as of May 10 2023):
+A2 (GPT-4 and GPT-3.5 fails as of May 10 2023):
 **culmination, criterion** or etc...
 
 
