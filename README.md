@@ -12,8 +12,7 @@ Q2:
 
 ## Task and instruction comprehension questions
 
-Q1:
-
+Q1: 
 What is a synonym of "drunk" that starts with the letter "i"?
 
 A1 (GPT-4 and GPT-3.5 passes as of May 10 2023):
